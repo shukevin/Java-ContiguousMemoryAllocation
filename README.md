@@ -1,5 +1,7 @@
 ﻿# Java-ContiguousMemoryAllocation
 
+The following project was a school assignment for an Operating Systems class. 
+
 ## Project description
 This project deals with memory management. The associated code simulates contiguous memory allocation using first-fit, best-fit, and worst-fit algorithms.
 Your program will be given a text file as input. Your program should read the input file from standard input. The input file will list memory operations –one per line. Each line of input will contain three fields (all positive integers):
