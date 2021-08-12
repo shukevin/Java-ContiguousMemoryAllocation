@@ -1,6 +1,6 @@
 ﻿# Java-ContiguousMemoryAllocation
 
-The following project was a school assignment for an Operating Systems class. 
+The following project was a school assignment for an Operating Systems class. It is meant to simulate the process of memory allocation given different algorithms.
 
 ## Project description
 This project deals with memory management. The associated code simulates contiguous memory allocation using first-fit, best-fit, and worst-fit algorithms.
